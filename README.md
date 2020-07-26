@@ -7,18 +7,27 @@ Website网页 : http://www.facebook.com/fortunemachinecomputer
 Google 谷歌 : https://fortune-machine-computer.business.site/
 YouTube 优管 : https://www.youtube.com/playlist?list=PLF6c98ucvwdJrBeHWzdXoPVAzHv2a3_lZ
 
-# fast_body_temperature_meter component
 
+
+
+
+# fast_body_temperature_meter and component
+
+![](https://github.com/cyysky/fast_body_temperature_meter/raw/master/picture%20and%20video/IMG_20200726_221726.jpg)
+fast_body_temperature_meter
+
+![](https://github.com/cyysky/fast_body_temperature_meter/raw/master/picture%20and%20video/IMG_20200726_212721.jpg)
 TJC3224T022_011 Screen / 屏幕 
 
+![](https://github.com/cyysky/fast_body_temperature_meter/raw/master/picture%20and%20video/IMG_20200726_212757.jpg)
 GY-906 BCC or DCC Temperature Sensor / 红外线传感器
 
+![](https://github.com/cyysky/fast_body_temperature_meter/raw/master/picture%20and%20video/IMG_20200726_212731.jpg)
 Cytron Macker Uno or Arduino Uno with extra buzzer mainboard /主板
 
+![](https://github.com/cyysky/fast_body_temperature_meter/raw/master/picture%20and%20video/IMG_20200726_214447.jpg)
 Box 盒子
-
 Some jumper wire / 一些跳线
-
 Micro usb cable / 线
 
 
