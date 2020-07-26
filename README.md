@@ -22,7 +22,7 @@ Some jumper wire / 一些跳线
 Micro usb cable / 线
 
 
-#Component I buy from here / 元件我在这里买
+# Component I buy from here / 元件我在这里买
 
 https://item.taobao.com/item.htm?id=561727164788
 https://item.taobao.com/item.htm?id=615285502789
@@ -33,13 +33,13 @@ https://my.cytron.io/p-usb-micro-b-cable
 https://my.cytron.io/p-40-ways-male-to-female-jumper-wire
 https://my.cytron.io/p-40-ways-male-to-male-jumper-wire
 
-#Software library used
+# Software library used
 https://github.com/sparkfun/SparkFun_MLX90614_Arduino_Library
 https://www.arduino.cc/en/main/software
 http://wiki.tjc1688.com/doku.php
 http://tjcfile.iicp.net:885/USARTHMI/hmi.rar
 
-#Wiring
+# Wiring
 TJC3224T022_011 
 VCC to Uno 5v
 GND to Uno GND
